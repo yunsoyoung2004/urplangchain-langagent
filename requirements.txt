@@ -1,0 +1,13 @@
+
+transformers
+torch
+peft
+langchain
+crewai
+autogen
+langgraph
+llama-index
+datasets
+accelerate
+bitsandbytes
+scikit-learn
